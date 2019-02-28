@@ -1,0 +1,2 @@
+course
+name(char) id(int) grade(int) 

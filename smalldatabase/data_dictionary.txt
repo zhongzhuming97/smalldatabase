@@ -1,0 +1,5 @@
+创建表：student 属性：name类型：char属性：id类型：int属性：grade类型：int
+创建表：course 属性：name类型：char属性：id类型：int属性：grade类型：int
+表student插入数据 houwei 6386 2 
+表student插入数据 zouhao 1006 2 
+表student插入数据 hahaha 6388 1 

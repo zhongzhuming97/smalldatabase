@@ -1,0 +1,5 @@
+student
+name(char) id(int) grade(int) 
+houwei 6666 1 
+zouhao 1006 2 
+hahaha 6388 1 
